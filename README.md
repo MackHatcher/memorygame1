@@ -2,7 +2,7 @@
 Card matching memory game created for Udacity nanodegree program. 
 https://forthebadge.com/images/badges/approved-by-george-costanza.svg
 
-#H1How to Load the Game
+#H1How to Load the Game#H1
 *Clone the repo and open index.html, or
 *Play on HitHub: Dungeon Matcher
 
