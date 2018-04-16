@@ -4,7 +4,7 @@ https://forthebadge.com/images/badges/approved-by-george-costanza.svg
 
 #H1How to Load the Game
 *Clone the repo and open index.html, or
-*Play on HitHub: Dungeon Matcher
+*Play on GitHub: Dungeon Matcher
 
 #H1How to Play the Game
 The game is a simple memory testing game, using cards. The game consists of a 4 x 4 grid of cards which default to the face-down positon.
