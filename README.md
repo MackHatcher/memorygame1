@@ -34,8 +34,8 @@ The game is won when the player has successfully matched all 8 pairs of cards.
 ## Timer:
 * https://www.w3schools.com/howto/howto_js_countdown.asp
 
-## Issues:
+## Issues/Updates:
 * At present, no issues with the game are known. If you find anything while playing, please email me at mack.hatcher1@outlook.com!
-
+* New features will be added later, including a more dynamic win modal that will feature total time taken, number of moves, and their star rating.
 ## Author:
 * This game was constructed by Mack Hatcher, using starter HTML and CSS provided by Udacity. 
