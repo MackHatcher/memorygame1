@@ -11,11 +11,12 @@ Card matching memory game created for Udacity nanodegree program.
 The game is a simple memory testing game, using cards. The game consists of a 8 x 2 grid of cards which default to the face-down positon.
 The face of each card features a fantasy based creature from the popular role-playing game "Dungeons & Dragons".
 
-The game officially begins when the first match attempt of two cards occurs; this starts the timer. 
-On each turn, the player flips over one card to reveal the monster hiding underneath. 
-The player then turns over a second card, hoping it's revealed monster matches the first flipped card's monster.
-If the monsters match, both cards will stay flipped right-side up, and are removed from play. 
-If the two flipped cards are not a match, they will both turn back over and the sequence begins again.
+*The game officially begins when the first match attempt of two cards occurs; this starts the timer. 
+*One complete turn consists of the flipping of two cards. 
+*On each turn, the player flips over one card to reveal the monster hiding underneath. 
+*The player then turns over a second card, hoping it's revealed monster matches the first flipped card's monster.
+*If the monsters match, both cards will stay flipped right-side up, and are removed from play. 
+*If the two flipped cards are not a match, they will both turn back over and the sequence begins again.
 
 The game is won when the player has successfully matched all 8 pairs of cards. 
 
