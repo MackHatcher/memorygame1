@@ -4,7 +4,8 @@ Card matching memory game created for Udacity nanodegree program.
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 
 # How to Load the Game
-* Clone the repo and open index.html
+* Clone the repo and open index.html, or
+* [Play here](https://mackhatcher.github.io/memorygame1/)
 
 # How to Play the Game
 The game is a simple memory testing game, using cards. The game consists of a 8 x 2 grid of cards which default to the face-down positon.
