@@ -3,8 +3,7 @@ Card matching memory game created for Udacity nanodegree program.
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 
 # How to Load the Game
-* Clone the repo and open index.html, or
-* Play on GitHub: Dungeon Matcher
+* Clone the repo and open index.html
 
 # How to Play the Game
 The game is a simple memory testing game, using cards. The game consists of a 4 x 4 grid of cards which default to the face-down positon.
