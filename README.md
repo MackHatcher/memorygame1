@@ -6,7 +6,7 @@ Card matching memory game created for Udacity nanodegree program.
 * Clone the repo and open index.html
 
 # How to Play the Game
-The game is a simple memory testing game, using cards. The game consists of a 4 x 4 grid of cards which default to the face-down positon.
+The game is a simple memory testing game, using cards. The game consists of a 8 x 2 grid of cards which default to the face-down positon.
 The face of each card features a fantasy based creature from the popular role-playing game "Dungeons & Dragons".
 
 The game officially begins when the first match attempt of two cards occurs; this starts the countdown timer. 
