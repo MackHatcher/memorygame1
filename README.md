@@ -22,10 +22,15 @@ The face of each card features a fantasy based creature from the popular role-pl
 The game is won when the player has successfully matched all 8 pairs of cards. 
 ## The Board
 The board when the game loads
+
 <a href="https://ibb.co/kmCpRn"><img src="https://preview.ibb.co/cBx0XS/Match_Screen.jpg" alt="Match_Screen" border="0"></a>
+
 The board after the first match has been made
+
 <a href="https://ibb.co/dE60Gn"><img src="https://preview.ibb.co/fuPWNS/Match_Match.jpg" alt="Match_Match" border="0"></a>
+
 The board after all matches have been made; the player has won the game!
+
 <a href="https://ibb.co/jbXjsS"><img src="https://preview.ibb.co/dpJPsS/MatchWin.jpg" alt="MatchWin" border="0"></a>
 
 # Cool Features
