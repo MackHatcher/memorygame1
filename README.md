@@ -16,7 +16,9 @@ On each turn, the player flips over one card to reveal the monster hiding undern
 The player then turns over a second card, hoping it's revealed monster matches the first flipped card's monster.
 If the monsters match, both cards will stay flipped right-side up, and are removed from play. 
 If the two flipped cards are not a match, they will both turn back over and the sequence begins again.
+
 The game is won when the player has successfully matched all 8 pairs of cards. 
+
 <a href="https://ibb.co/kmCpRn"><img src="https://preview.ibb.co/cBx0XS/Match_Screen.jpg" alt="Match_Screen" border="0"></a>
 <a href="https://ibb.co/jbXjsS"><img src="https://preview.ibb.co/dpJPsS/MatchWin.jpg" alt="MatchWin" border="0"></a>
 
