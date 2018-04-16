@@ -1,4 +1,5 @@
 Card matching memory game created for Udacity nanodegree program. 
+
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 
 # How to Load the Game
