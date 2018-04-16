@@ -1,5 +1,5 @@
 # Dungeon Matcher
-Card matching memory game created for Udacity nanodegree program. 
+Card matching memory game created for Udacity nanodegree program. Before playing, please take a moment to read this over, as it will address most questions you may have. Any further questions, please don't hesitate to contact me at mack.hatcher1@outlook.com! 
 
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 
